@@ -1,0 +1,12 @@
+"rules": [
+    {
+        "conditions": [
+            {
+                "property": "account",
+                "pattern": "(Corporate)",
+                "flags": "ig"
+            }
+        ],
+        "type": "filter"
+    }
+]
